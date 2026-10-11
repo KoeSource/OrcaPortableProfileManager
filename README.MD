@@ -1,6 +1,6 @@
 # Orca Portable Profile Manager
 
-![Example Image](https://github.com/KoeSource/OrcaPortableProfileManager/blob/master/ppm.jpg)
+![Example Image](https://raw.githubusercontent.com/KoeSource/OrcaPortableProfileManager/refs/heads/master/ppm.jpg)
 
 ### Preamble
 
